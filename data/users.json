@@ -1,0 +1,16 @@
+[
+  {
+    "username": "chopper",
+    "firstname": "Chopper",
+    "lastname": "Tony Tony",
+    "email": "chopper@meryl.com",
+    "password": "onepiece"
+  },
+  {
+    "username": "majdi",
+    "firstname": "Majdi",
+    "lastname": "Toumi",
+    "email": "majdi@mhirba.com",
+    "password": "hello"
+  }
+]

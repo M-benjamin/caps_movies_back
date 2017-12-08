@@ -1,0 +1,22 @@
+{
+  "name": "codingbad-learn-react-one0one-xB",
+  "version": "1.0.0",
+  "description": "Learn React.js using Express.js REST API",
+  "main": "app.js",
+  "author": "Majdi Toumi <majdi@mhirba.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "PORT=4242 nodemon server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "colors": "^1.1.2",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.2",
+    "pg": "^7.4.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.22.11",
+    "uuid": "^3.1.0"
+  }
+}

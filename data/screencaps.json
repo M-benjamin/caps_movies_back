@@ -1,0 +1,26 @@
+[
+  {
+    "path" : "http://majditoumi.bitballoon.com/caps-001-unbreakable.jpg",
+    "movie_id" : 1
+  },
+  {
+    "path": "http://majditoumi.bitballoon.com/caps-002-boyz-n-the-hood.jpg",
+    "movie_id" : 2
+  },
+  {
+    "path": "http://majditoumi.bitballoon.com/caps-003-back-to-the-future-II.jpg",
+    "movie_id" : 3
+  },
+  {
+    "path": "http://majditoumi.bitballoon.com/caps-004-jurassic-park.jpg",
+    "movie_id" : 4
+  },
+  {
+    "path": "http://majditoumi.bitballoon.com/caps-005-forrest-gump.jpg",
+    "movie_id" : 5
+  },
+  {
+    "path": "http://majditoumi.bitballoon.com/caps-006-indiana-jones-and-the-temple-of-doom.jpg",
+    "movie_id" : 6
+  }
+]
